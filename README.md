@@ -21,5 +21,7 @@
   - Defect boxes are drawn and reassembled into final image
 
 ---
+## Run the App
+streamlit run streamlit_app.py
 
 
